@@ -1,0 +1,12 @@
+html{
+    background-color: black;
+    height: 100vh;
+    overflow: hidden;
+}
+h1{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
